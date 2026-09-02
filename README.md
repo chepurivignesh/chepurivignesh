@@ -42,10 +42,12 @@ Currently, I'm focused on strengthening my software development fundamentals and
 ### 🧠 NeuroFlex — AI-Assisted Personalized Fitness Companion
 An AI-powered fitness application that provides personalized workout and diet recommendations.
 **Tech:** Next.js • React.js • Tailwind CSS • Shadcn UI • Gemini AI • Vapi • MediaPipe • Clerk • Convex
+[View Repository :](https://github.com/chepurivignesh/NeuroFlex)
 
 ### 📄 PDF Q&A Chatbot — RAG
 An AI-powered PDF question-answering application that allows users to upload documents and ask questions based on their content.
 **Tech:** Python • LangChain • Google Gemini • RAG • Embeddings • Semantic Search • PDF Processing
+[View Repository :](https://github.com/chepurivignesh/PDF-RAG-CHATBOT)
 
 ## 📚 Currently Learning & Improving
 - Advanced Java & Data Structures
