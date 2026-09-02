@@ -1,23 +1,66 @@
-# Hi, I'm Vignesh 👋
+# 👋 Hi, I'm Vignesh 
+### 💻 Software Developer | Java | Full Stack Development | AI/ML | Generative AI | RAG
 
-## About Me
-I am a final-year Computer Science Engineering student at " Sreenidhi Institute of Science and Technology ".  
-I am passionate about "" Cloud Computing, Virtualization, and Linux systems "" and currently learning "" AWS, VMware, and DevOps tools "" to build a strong foundation for a career in cloud and infrastructure engineering.
+## 👨‍💻 About Me
 
-## Skills ⚡
-- Cloud Computing: AWS EC2, IAM, CLI  
-- Virtualization: VMware Workstation Player  
-- Linux: Shell Scripting, File Handling, User & Permission Management  
+I'm a Computer Science and Engineering graduate with a strong interest in Software Development, Full Stack Development, and Generative AI.
 
-## Projects 📂
-- [AWS EC2 Web Deployment] : (https://github.com/chepurivignesh/aws-ec2-web-deployment) – Hosted a website on AWS EC2 using Apache Web Server.  
-- [Linux Automation Scripts] : (https://github.com/chepurivignesh/linux-automation-scripts) – Automated user creation and folder backup tasks with shell scripts.  
-- [VMware Ubuntu Setup] : (https://github.com/chepurivignesh/vmware-ubuntu-setup) – Installed and configured Ubuntu virtual machines using VMware Workstation Player.  
+I enjoy building practical applications that combine software engineering with AI. I'm particularly interested in Java, backend development, web technologies, LLM applications, and Retrieval-Augmented Generation (RAG).
 
-## Contact 
-- Email: vigneshchepuri78@gmail.com  
-- Phone: +91 9704991706  
-- LinkedIn: link will be added soon
+Currently, I'm focused on strengthening my software development fundamentals and building real-world projects.
 
----
-⭐ From [chepurivignesh] : (https://github.com/chepurivignesh)
+## 🛠️ Tech Stack
+### ☕ Programming
+ - Java
+ - Python
+ - JavaScript
+ - SQL
+
+### 🌐 Full Stack Development
+ - React.js
+ - Next.js
+ - Tailwind CSS
+ - REST APIs
+ - Backend Development
+
+### 🤖 AI/Generative AI
+ - Generative AI
+ - Large Language Models (LLMs)
+ - Retrieval-Augmented Generation (RAG)
+ - LangChain
+ - Google Gemini
+ - Embeddings
+ - Semantic Search
+ 
+### 🔧 Tools & Technologies
+ - Git
+ - GitHub
+ - VS Code
+ 
+## 🚀 Featured Projects 
+
+### 🧠 NeuroFlex — AI-Assisted Personalized Fitness Companion
+An AI-powered fitness application that provides personalized workout and diet recommendations.
+**Tech:** Next.js • React.js • Tailwind CSS • Shadcn UI • Gemini AI • Vapi • MediaPipe • Clerk • Convex
+
+### 📄 PDF Q&A Chatbot — RAG
+An AI-powered PDF question-answering application that allows users to upload documents and ask questions based on their content.
+**Tech:** Python • LangChain • Google Gemini • RAG • Embeddings • Semantic Search • PDF Processing
+
+## 📚 Currently Learning & Improving
+- Advanced Java & Data Structures
+- Backend Development
+- Generative AI & LLM Applications
+- RAG & AI Application Development
+- Cloud Technologies 
+
+## 🎯 Career Interests
+- Software Development
+- Java Development
+- Full Stack Development
+- AI/ML & Generative AI
+- Backend Development
+
+## 🤝 Connect with me
+- LinkedIn: [chepurivignesh](https://www.linkedin.com/in/vignesh-chepuri-5a1399218/)
+- Email: chepurivignesh12@gmail.com 
