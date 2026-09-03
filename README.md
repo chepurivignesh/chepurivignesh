@@ -10,13 +10,13 @@ I enjoy building practical applications that combine software engineering with A
 Currently, I'm focused on strengthening my software development fundamentals and building real-world projects.
 
 ## 🛠️ Tech Stack
-### ☕ Programming
+### ☕ Languages
  - Java
  - Python
  - JavaScript
  - SQL
 
-### 🌐 Full Stack Development
+### 🌐 Development
  - React.js
  - Next.js
  - Tailwind CSS
