@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vignesh 
-### 💻 Software Developer | Java | Full Stack Development | AI/ML | Generative AI | RAG
+### 💻 Software Developer | Java | python | Full Stack Development | AI/ML | Generative AI | RAG
 
 ## 👨‍💻 About Me
 
